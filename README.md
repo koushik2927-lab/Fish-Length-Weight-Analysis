@@ -70,6 +70,11 @@ Species-specific growth was assessed by testing whether the growth exponent (b) 
 A significance level of 0.05 was used.
 
 ## Reproducibility
+## Growth Exponent by Species
+
+The figure below shows the estimated growth exponent (b) for the analyzed fish species.
+
+![Species growth exponent](figures/species_growth_exponent.png)
 
 All statistical analyses were performed in R.
 
